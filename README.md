@@ -53,7 +53,7 @@ Actualmente trabajo en **consultoría IT**, brindando soporte y desarrollo para 
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 ### 💈 Sistema de Turnos
 
