@@ -31,7 +31,22 @@ Actualmente trabajo en **consultoría IT**, brindando soporte y desarrollo para 
 * Python
 * Django
 * Kotlin
+* JavaScript
+* Node.js
+* Express
 * APIs REST
+* JWT (autenticación)
+* Zod (validación)
+
+### Frontend
+
+* React
+* Vite
+* React Router
+* Axios
+* Leaflet / React Leaflet (mapas)
+* HTML
+* CSS
 
 ### Bases de Datos
 
@@ -45,7 +60,10 @@ Actualmente trabajo en **consultoría IT**, brindando soporte y desarrollo para 
 
 * Git & GitHub
 * Docker
+* Docker Compose
 * AWS
+* Vitest
+* ESLint
 * Android Studio
 * Gradle
 * Moodle
@@ -53,7 +71,22 @@ Actualmente trabajo en **consultoría IT**, brindando soporte y desarrollo para 
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
+
+### 🚚 MandáTodo Logística
+
+Sistema web para una **empresa de logística de última milla** que recibe pedidos por WhatsApp, Instagram, correo y otros canales. Su objetivo principal es **normalizar y geolocalizar las direcciones de envío** para evitar viajes fallidos, acompañando el pedido desde la carga hasta la entrega y el cobro.
+
+* Autenticación con JWT y roles diferenciados (Administrador, Operador y Chofer)
+* ABM de clientes y libreta de direcciones por cliente
+* Geocodificación de direcciones con la API Georef y previsualización en mapa
+* Confirmación de ubicaciones, asignación de pedidos a choferes e historial de estados
+* Cálculo de importe sugerido según la distancia y gestión de comprobantes de pago
+* Exportación de pedidos a PDF e importación del histórico desde Excel
+
+**Tecnologías:** JavaScript · React · Vite · Node.js · Express · MySQL · Leaflet · Docker
+
+🔗 [Ver repositorio](https://github.com/filipelisanti/Empresa-Logistica)
 
 ### 💈 Sistema de Turnos
 
@@ -71,12 +104,12 @@ El proyecto está orientado a implementar un sistema práctico de gestión de tu
 
 A lo largo de mi formación académica y experiencia profesional, he trabajado en proyectos relacionados con:
 
-* Desarrollo Backend con **PHP y Java**
+* Desarrollo Backend con **PHP, Java y Node.js**
 * Diseño y gestión de bases de datos
 * Consultas y optimización con SQL
 * Desarrollo de aplicaciones Android con **Kotlin**
 * Programación en C y C++
-* Desarrollo web con HTML, CSS y JavaScript
+* Desarrollo web con HTML, CSS, JavaScript y **React**
 * Desarrollo y consumo de APIs REST
 * Personalización y soporte de sistemas **ERP / CRM**
 * Administración y personalización de **Moodle**
